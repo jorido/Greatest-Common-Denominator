@@ -1,5 +1,5 @@
 /* Author: John Do
- * Date: May 11, 2021
+ * Date: May 12, 2021
  * Purpose: To find the greatest common denominator of N numbers
  */
 
