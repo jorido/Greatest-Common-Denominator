@@ -1,5 +1,5 @@
 /* Author: John Do
- * Date: May 12, 2021
+ * Date: May 13, 2021
  * Purpose: To find the greatest common denominator of N numbers
  */
 
@@ -82,6 +82,7 @@ int main(void)
 			array[j + 1] = n;
 		}
 	}
+
 	printf("GCD: %d \n\n", n);
 	system("PAUSE");
 }
